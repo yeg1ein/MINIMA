@@ -14,3 +14,4 @@ src/utils/else_module
 !data_engine/tools/paint/paint_transformer/brush/*
 
 paper/
+data/evaluation_videos
